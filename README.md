@@ -8,7 +8,7 @@ A Deeplink is a URL with a custom scheme such as `nike://` or `prizzle://` and a
 ### Nike App
 ###### Scheme
 `mynike://x-callback-url/product-details?style-color=PID`
-###### Dunk Low Black/White
+###### Dunk Low Black/White (W)
 `mynike://x-callback-url/product-details?style-color=DD1503-101`
 
 ### Nike SNKRS App
