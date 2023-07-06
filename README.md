@@ -17,6 +17,11 @@ A Deeplink is a URL with a custom scheme such as `nike://` or `prizzle://` and a
 ###### Travis Scott x Air Jordan 1 Low (Olive Green)
 `snkrs://product/DZ4137-106`
 
+## Add-on
+You can use my redirect service (free for everyone) to use them in apps (e.g. Discord)
+
+`https://redirect.prizzle.dev/?url=DEEPLINK`
+
 
 ## Disclaimer
 This repository is not affiliated with Nike, in any way. This repository is for educational purposes only. Use at your own risk. 
